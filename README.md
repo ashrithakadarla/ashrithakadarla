@@ -44,13 +44,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrithakadarla&theme=tokyonight)
 
-## 💻 Most Used Languages
+## Most Used Languages
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrithakadarla&theme=tokyonight)
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/ashrithakadarla/ashrithakadarla/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ashrithakadarla/ashrithakadarla/gh-pages/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect
 
