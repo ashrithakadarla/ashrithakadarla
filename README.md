@@ -48,6 +48,10 @@
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrithakadarla&theme=tokyonight)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/ashrithakadarla/ashrithakadarla/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Connect
 
 - GitHub: https://github.com/ashrithakadarla
