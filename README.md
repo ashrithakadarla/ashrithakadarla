@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats Card
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashrithakadarla&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrithakadarla&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
@@ -46,11 +46,7 @@
 
 ## 💻 Most Used Languages
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashrithakadarla&layout=compact&theme=tokyonight" />
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/ashrithakadarla/ashrithakadarla/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrithakadarla&theme=tokyonight)
 
 ## 🌐 Connect
 
