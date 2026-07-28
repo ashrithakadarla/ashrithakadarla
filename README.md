@@ -36,17 +36,17 @@
 - 🚀 Building AI-powered applications with Python & Streamlit
 - 🌱 Currently learning LLMs, RAG, AI Agents, and Backend Development
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats Card
 
-![Ashritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrithakadarla&show_icons=true&theme=tokyonight)
+![Ashritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrithakadarla&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ashrithakadarla&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrithakadarla&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithakadarla&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithakadarla&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🐍 Contribution Snake
 
