@@ -1,33 +1,5 @@
 # Ashritha Kadarla
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│         █████╗ ███████╗██╗  ██╗██████╗ ██╗████████╗██╗  ██╗ █████╗            │
-│        ██╔══██╗██╔════╝██║  ██║██╔══██╗██║╚══██╔══╝██║  ██║██╔══██╗           │
-│        ███████║███████╗███████║██████╔╝██║   ██║   ███████║███████║           │
-│        ██╔══██║╚════██║██╔══██║██╔══██╗██║   ██║   ██╔══██║██╔══██║           │
-│        ██║  ██║███████║██║  ██║██║  ██║██║   ██║   ██║  ██║██║  ██║           │
-│        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝           │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  OS............... Windows 11                                                │
-│  Kernel........... MirAI AI Builder                                          │
-│  Education........ B.Tech CSE                                                │
-│  College.......... Vardhaman College of Engineering                          │
-│  Languages........ Python • Java • JavaScript • C                            │
-│  Frameworks....... Streamlit • FastAPI • Flask • React                       │
-│  AI Stack......... Gemini API • Prompt Engineering • Pollinations AI         │
-│  Databases........ MongoDB                                                   │
-│  Interests........ Artificial Intelligence • Cybersecurity                   │
-│  Learning......... LLMs • GenAI • Backend Development                        │
-│  Hobbies.......... Coding • Hackathons • Reading                             │
-│  GitHub........... github.com/ashrithakadarla                                │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student
